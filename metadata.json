@@ -1,0 +1,5 @@
+{
+  "name": "Email Campaign Manager",
+  "description": "A simple system for managing email lists, creating campaigns, scheduling sends, and tracking status.",
+  "requestFramePermissions": []
+}
